@@ -22,6 +22,6 @@ The Results page contains the results from the quiz. The player will be able to 
 When the review button is clicked, the player will be able to see each question with the corresponding given answers, and a little message that says that the answer is correct or wrong and a “good job” or a “take some time to revise and try again, if the answer is correct or wrong, respectively.
 When the “Exit the app” button is clicked, the whole app is shut down, and the player can restart the app to try again.
 
+### Link:
 
-Link to GitHub: <https://github.com/Lunghani-Shilubane/History-Lesson>
 YouTube video link: <https://www.youtube.com/watch?v=-5vS8zVWHy0>
