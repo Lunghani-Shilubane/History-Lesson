@@ -4,13 +4,11 @@ History lesson is a mini-study game which uses flashcards to help someone catch 
 ## Design Considerations:
 The app is designed to be simple and easy to use, and it is available on multiple Android versions to ensure that no one is left out.
  
-## The first page:
+### The first page:
  
 Contains the app's name and a little information to introduce and explain what the app is about. Under that, there’s an input field where the user can input a username they want to use in the app, and a button that will pass the username to the next page.
 
-
-
-## The second page:
+### The second page:
  
 This is the questions and flashcards page. There is an array of 5 questions and another of 5 answers. The true or false buttons correspond with the answers to the questions. Once one of the buttons is pressed, the answer given is checked against the correct answer. 
 If the correct choice is made, a green overlay appears on the card with text that indicates that the player’s answer was correct.
