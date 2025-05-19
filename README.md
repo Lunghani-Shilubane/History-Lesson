@@ -24,4 +24,4 @@ When the “Exit the app” button is clicked, the whole app is shut down, and t
 
 
 Link to GitHub: <https://github.com/Lunghani-Shilubane/History-Lesson>
-Youtube video link: <>
+YouTube video link: <https://www.youtube.com/watch?v=-5vS8zVWHy0>
