@@ -14,7 +14,8 @@ This is the questions and flashcards page. There is an array of 5 questions and 
 If the correct choice is made, a green overlay appears on the card with text that indicates that the player’s answer was correct.
  
 If the wrong answer is chosen, a red overlay appears on the card with text that indicates that the player’s answer is wrong. After answering all the questions, the results button will appear, which will take the player to the results page.
- 
+
+ ### The third page
 The Results page contains the results from the quiz. The player will be able to see how many questions they got wrong and how many they got right. This page welcomes the player and displays the username entered on the first page. As well as the results, there are also buttons to review the quiz and to shut down the app.
 
  
